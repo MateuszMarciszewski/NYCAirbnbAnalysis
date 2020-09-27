@@ -1,0 +1,3 @@
+import pandas as pd
+
+df_airbnbnyc = pd.read_csv("AB_NYC_2019.csv")
